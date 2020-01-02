@@ -1,1 +1,2 @@
-we adding shit. 
+we adding shit.
+Feature 3 changed this line. 
